@@ -1,0 +1,14 @@
+C:\Udemy\dotnet\Basics\bin\Debug\net8.0\Basics.exe
+C:\Udemy\dotnet\Basics\bin\Debug\net8.0\Basics.deps.json
+C:\Udemy\dotnet\Basics\bin\Debug\net8.0\Basics.runtimeconfig.json
+C:\Udemy\dotnet\Basics\bin\Debug\net8.0\Basics.dll
+C:\Udemy\dotnet\Basics\bin\Debug\net8.0\Basics.pdb
+C:\Udemy\dotnet\Basics\obj\Debug\net8.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\dotnet\Basics\obj\Debug\net8.0\Basics.AssemblyInfoInputs.cache
+C:\Udemy\dotnet\Basics\obj\Debug\net8.0\Basics.AssemblyInfo.cs
+C:\Udemy\dotnet\Basics\obj\Debug\net8.0\Basics.csproj.CoreCompileInputs.cache
+C:\Udemy\dotnet\Basics\obj\Debug\net8.0\Basics.dll
+C:\Udemy\dotnet\Basics\obj\Debug\net8.0\refint\Basics.dll
+C:\Udemy\dotnet\Basics\obj\Debug\net8.0\Basics.pdb
+C:\Udemy\dotnet\Basics\obj\Debug\net8.0\Basics.genruntimeconfig.cache
+C:\Udemy\dotnet\Basics\obj\Debug\net8.0\ref\Basics.dll
