@@ -17,11 +17,11 @@ DbContext.Model.Add
 DbContext.SaveChanges
 DbContext.Model.ToList
 */
-public class DataEntity : DbContext
+public class ComputerEntity : DbContext
 {
     private IConfiguration config;
 
-    public DataEntity(IConfiguration config)
+    public ComputerEntity(IConfiguration config)
     {
         this.config = config;
     }

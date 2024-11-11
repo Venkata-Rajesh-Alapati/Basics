@@ -75,3 +75,5 @@ C:\Udemy\dotnet\CSharpNotes\obj\Debug\net8.0\refint\CSharpNotes.dll
 C:\Udemy\dotnet\CSharpNotes\obj\Debug\net8.0\CSharpNotes.pdb
 C:\Udemy\dotnet\CSharpNotes\obj\Debug\net8.0\CSharpNotes.genruntimeconfig.cache
 C:\Udemy\dotnet\CSharpNotes\obj\Debug\net8.0\ref\CSharpNotes.dll
+C:\Udemy\dotnet\CSharpNotes\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Udemy\dotnet\CSharpNotes\bin\Debug\net8.0\AutoMapper.dll

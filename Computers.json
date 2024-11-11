@@ -1,0 +1,16 @@
+[
+  {
+    "modelName": "DELL",
+    "storage": 512,
+    "price": 549.99,
+    "new": true,
+    "releaseDate": "2022-08-22T00:00:00"
+  },
+  {
+    "modelName": "HP",
+    "storage": 1024,
+    "price": 499.99,
+    "new": false,
+    "releaseDate": "2022-08-25"
+  }
+]

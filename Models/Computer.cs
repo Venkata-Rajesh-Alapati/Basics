@@ -1,7 +1,10 @@
+using System.Text.Json.Serialization;
+
 namespace CSharpNotes.Models;
 
 public class Computer{
 
+   // [JsonPropertyName("computerID")] // It can map the field with name computerID to ComputerID
     public int ComputerId {get; set;}
     public string ModelName { get; set;} = "";
 
